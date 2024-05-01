@@ -16,7 +16,7 @@ import { getFirestore } from "firebase/firestore";
 // };
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDchLcm5MU08SRgAP-Hw1fdjWkSTCpB51w",
+  apiKey: "API_KEY",
   authDomain: "friendly-chat-m7603.firebaseapp.com",
   projectId: "friendly-chat-m7603",
   storageBucket: "friendly-chat-m7603.appspot.com",
