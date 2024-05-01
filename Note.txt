@@ -1,0 +1,29 @@
+apiKey: "AIzaSyBM-Cfr5CpWgJEp_acTa5jSmB30OCvCBsU",
+authDomain: "friendlychat-8f4b5.firebaseapp.com",
+projectId: "friendlychat-8f4b5",
+storageBucket: "friendlychat-8f4b5.appspot.com",
+messagingSenderId: "369037861756",
+appId: "1:369037861756:web:5a932784c8f85c3c9b3af9",
+measurementId: "G-DCJY62D4N4"
+
+
+
+
+
+// const firebaseConfig = {
+
+//   apiKey: "AIzaSyBM-Cfr5CpWgJEp_acTa5jSmB30OCvCBsU",
+
+//   authDomain: "friendlychat-8f4b5.firebaseapp.com",
+
+//   projectId: "friendlychat-8f4b5",
+
+//   storageBucket: "friendlychat-8f4b5.appspot.com",
+
+//   messagingSenderId: "369037861756",
+
+//   appId: "1:369037861756:web:5a932784c8f85c3c9b3af9",
+
+//   measurementId: "G-DCJY62D4N4"
+
+// };
