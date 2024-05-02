@@ -1,28 +1,26 @@
 # ChatBot with Chat Application Integration
 
 This repository contains a project that integrates a chatbot with a chat application, enabling users to interact with the chatbot and other users simultaneously within the application interface.
-Overview
 
+### Overview
 The project combines the functionalities of a chatbot and a chat application, offering a seamless user experience. Users can chat with the bot as well as with other users, all within the same application interface.
-<<<<<<< HEAD
-=======
 
-You may send images to other users and could even send an image to the ChatBOT!!
 
->>>>>>> 81324dad91d78071c1316f029eb599268fd0d820
-Features
+### You may send images to other users and could even send an image to the ChatBOT!!
 
-    Chatbot Integration: The chatbot is seamlessly integrated into the chat application.
+## Features
 
-    Real-time Responses: Users receive responses from the chatbot and other users in real-time.
+###    Chatbot Integration: The chatbot is seamlessly integrated into the chat application.
 
-    Customizable: The project is designed to be easily customizable to fit different use cases and environments.
+###    Real-time Responses: Users receive responses from the chatbot and other users in real-time.
 
-    User-friendly Interface: The chat application provides a user-friendly interface for interacting with the chatbot and other users.
+###    Customizable: The project is designed to be easily customizable to fit different use cases and environments.
 
-    User Registration: New users need to register with their email, name, password, and user image. A one-time code will be sent to the email address for confirmation.
+###    User-friendly Interface: The chat application provides a user-friendly interface for interacting with the chatbot and other users.
 
-    Private Messaging: Users can search for other users and message them privately.
+###    User Registration: New users need to register with their email, name, password, and user image. A one-time code will be sent to the email address for confirmation.
+
+###    Private Messaging: Users can search for other users and message them privately.
 
 ## Installation
 
@@ -92,7 +90,7 @@ Acknowledgements
 
     Firebase for backend services including authentication, storage, database management, and hosting.
 
-
+Thank You!!
 
 ![alt text](Images/image.png)
 
