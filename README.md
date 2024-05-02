@@ -4,6 +4,12 @@ This repository contains a project that integrates a chatbot with a chat applica
 Overview
 
 The project combines the functionalities of a chatbot and a chat application, offering a seamless user experience. Users can chat with the bot as well as with other users, all within the same application interface.
+<<<<<<< HEAD
+=======
+
+You may send images to other users and could even send an image to the ChatBOT!!
+
+>>>>>>> 81324dad91d78071c1316f029eb599268fd0d820
 Features
 
     Chatbot Integration: The chatbot is seamlessly integrated into the chat application.
