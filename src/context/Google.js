@@ -3,7 +3,7 @@ import { ChatContext } from './ChatContext';
 
 const { GenerativeModel } = require('@google-ai/generativelanguage');
 
-const GOOGLE_API_KEY = "Your API KEY";
+const GOOGLE_API_KEY = "API_KEY";
 const genai = new GenerativeModel({ apiKey: GOOGLE_API_KEY });
 const model = genai.model("gemini-pro");
 
